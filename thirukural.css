@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+span{
+    font-weight: bolder;
+}
+.main{
+    background-image: url("card.jpg");
+    background-repeat: no-repeat;
+    height: 800px;
+    background-position: center;
+    background-size: 100%;
+    background-size: cover;
+    align-content: center;
+    text-align: center;
+    padding: 100px;
+}
+.navbar{
+    align-items: baseline;
+}
+.content{
+    text-align: left;
+    font-weight: bolder ;
+}
+
+.side{
+    background-position: inherit;
+    height:800px;
+    background-image: url("thiruvalluvar1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-size: cover;
+}
+.col-12{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
